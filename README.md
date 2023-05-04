@@ -5,6 +5,7 @@ This script uses the OpenAI API to translate a .po file from one language to ano
 Python 3.7 or higher
 openai library
 polib library
+
 # Installation
 Clone the repository or download the script file.
 Install the required libraries by running pip install -r requirements.txt.
