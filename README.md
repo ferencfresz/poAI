@@ -1,4 +1,4 @@
-# PO File Translator
+# PO File Translator with OpenAI
 
 This script uses the OpenAI API to translate a .po file from one language to another. It reads in a .po file, loops through the messages within it, and translates them using the OpenAI API. The translated messages are then written back to the .po file and saved.
 
