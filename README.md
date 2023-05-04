@@ -12,7 +12,8 @@ This script uses the OpenAI API to translate a .po file from one language to ano
 2. Install the required libraries by running `pip install -r requirements.txt`.
 3. Replace `YOUR openai KEY` with your OpenAI API key.
 4. Replace `YOUR PO FILE` with the path to the .po file you want to translate.
-5. Replace `YOUR OUTPUT PO FILE` with the desired path and name for the translated .po file.
+5. Replace `YOUR LaANGUAGE` with your language.
+6. Replace `YOUR OUTPUT PO FILE` with the desired path and name for the translated .po file.
 
 ## Usage
 1. Run the script by running `python poAI.py` in the command line.
