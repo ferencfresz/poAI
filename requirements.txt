@@ -1,1 +1,2 @@
-polib==1.1.1
+polib
+openai
