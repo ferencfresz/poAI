@@ -20,5 +20,5 @@ This script uses the OpenAI API to translate a .po file from one language to ano
 2. The translated .po file will be saved in the path specified in step 5 of the installation process.
 3. The script waits for a random amount of time between each translation to avoid overloading the OpenAI API.
 
-Note: This script uses the OpenAI API, which requires an API key. Be sure to use your own key and not share it with others.
+Note: This script uses the OpenAI API, which requires an API key. Be sure to use your own key and not share it with others. 
 Please note that this script is experimental and is provided as-is. Use at your own risk and please report any issues or bugs to the author.
